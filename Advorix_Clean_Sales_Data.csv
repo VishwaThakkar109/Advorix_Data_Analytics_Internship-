@@ -1,0 +1,501 @@
+OrderID,CustomerName,Region,Product,Quantity,UnitPrice,Discount,OrderDate,ShippedDate,Profit
+1051,  Sarah Lee,West,laptop ,4,450,0.1,28-05-2023,09-01-2024,100
+1092,Jane Doe,West,Accessories,5,450,0,04-05-2023,25-09-2023,100
+1014,O'Connor,Unknown,Tablet,4,450,0,01-01-2023,13-10-2023,0
+1071,Michael   ,South,Accessories,3,200,0,04-09-2023,27-04-2023,200
+1060,Unknown,Unknown,Mobile,5,450,0,09-12-2023,27-11-2023,100
+1020,Unknown,Unknown,MOBILE,3,200,0,08-05-2023,03-02-2023,100
+1082,John Smith,South,Accessories,1,1200,0,10-07-2023,19-05-2023,0
+1086,Unknown,Unknown,Laptop,3,800,0,08-03-2023,12-03-2023,200
+1074,Unknown,Unknown,Mobile,3,200,0.1,04-01-2023,10-03-2023,0
+1074,  Sarah Lee,East,MOBILE,3,450,0,30-10-2023,23-10-2023,100
+1087,Unknown,East,Tablet,-1,1200,0,21-10-2023,29-01-2023,0
+1099,David,East,MOBILE,3,200,0,23-05-2023,10-02-2023,-100
+1023,John Smith,East,unknown,3,200,0.1,10-07-2023,05-01-2023,0
+1002,Unknown,North,Laptop,2,800,0.1,21-01-2023,10-02-2023,-50
+1021,Unknown,East,Mobile,3,450,0.1,15-08-2023,25-05-2023,-50
+1052,Unknown,Unknown,Tablet,2,450,0,09-11-2023,24-08-2023,0
+1001,  Sarah Lee,West,Laptop,2,450,0,27-04-2023,20-05-2023,-50
+1087,Unknown,West,MOBILE,3,200,0,29-10-2023,11-07-2023,-100
+1029,  Sarah Lee,North,Laptop,2,450,0.2,22-05-2023,12-05-2023,200
+1037,O'Connor,East,Mobile,5,450,0.1,08-02-2023,24-07-2023,-50
+1001,Jane Doe,East,laptop ,4,1200,0.2,21-12-2023,11-05-2023,-50
+1063,Jane Doe,East,Laptop,1,450,0,09-09-2023,18-09-2023,0
+1059,O'Connor,Unknown,unknown,3,450,0,29-11-2023,17-06-2023,-100
+1020,Unknown,South,Laptop,5,450,0,26-07-2023,08-02-2023,200
+1032,David,Unknown,MOBILE,1,200,0,29-07-2023,17-07-2023,0
+1075,  Sarah Lee,South,MOBILE,3,200,0.2,25-04-2023,14-07-2023,0
+1057,John Smith,East,Tablet,3,200,0,13-08-2023,18-04-2023,0
+1021,Unknown,East,MOBILE,3,200,0,14-05-2023,27-01-2023,-100
+1088,Unknown,Unknown,Accessories,5,450,0,08-09-2023,26-09-2023,200
+1048,Unknown,Unknown,Mobile,5,200,0,07-08-2023,21-10-2023,-100
+1090,David,South,Mobile,3,450,0,01-04-2023,21-09-2023,200
+1058,Jane Doe,West,laptop ,4,450,0,20-12-2023,28-12-2023,-100
+1041,Jane Doe,South,laptop ,-1,200,0.2,15-02-2023,20-03-2023,0
+1091,Unknown,Unknown,Mobile,2,800,0,07-02-2023,25-12-2023,0
+1059,Unknown,Unknown,unknown,3,1200,0,22-05-2023,17-03-2023,100
+1079,  Sarah Lee,Unknown,laptop ,3,450,0.2,10-04-2023,20-09-2023,-50
+1014,Jane Doe,Unknown,Tablet,4,450,0.2,24-11-2023,11-07-2023,0
+1061,  Sarah Lee,North,MOBILE,3,450,0,09-07-2023,26-06-2023,-100
+1061,David,Unknown,Mobile,3,450,0,04-02-2023,21-10-2023,0
+1046,Jane Doe,North,laptop ,3,1200,0,27-05-2023,18-02-2023,100
+1061,Jane Doe,West,Mobile,3,450,0,30-01-2023,06-03-2023,-50
+1050,Michael   ,South,Accessories,1,800,0.1,30-11-2023,28-03-2023,-100
+1054,Jane Doe,Unknown,Laptop,3,450,0,25-03-2023,07-05-2023,200
+1063,O'Connor,South,MOBILE,4,450,0.2,08-10-2023,28-12-2023,-50
+1002,John Smith,North,Mobile,-1,450,0,10-12-2023,20-01-2023,0
+1050,O'Connor,Unknown,Laptop,4,450,0.2,27-09-2023,11-03-2023,100
+1006,Unknown,South,laptop ,5,200,0.2,03-06-2023,29-05-2023,-50
+1020,Unknown,Unknown,Laptop,5,800,0,12-04-2023,14-01-2024,-50
+1072,  Sarah Lee,East,MOBILE,3,450,0.2,03-08-2023,15-06-2023,0
+1038,O'Connor,North,Mobile,-1,800,0.2,30-05-2023,26-08-2023,-100
+1017,O'Connor,South,Accessories,5,200,0.1,24-03-2023,28-05-2023,200
+1003,O'Connor,North,unknown,3,450,0,20-04-2023,28-12-2023,0
+1088,David,North,laptop ,4,450,0,02-10-2023,11-07-2023,200
+1059,Jane Doe,Unknown,Mobile,3,200,0.1,20-07-2023,22-11-2023,-100
+1013,John Smith,Unknown,MOBILE,3,450,0,11-10-2023,17-01-2023,-50
+1008,  Sarah Lee,East,laptop ,1,200,0,22-06-2023,07-07-2023,200
+1089,O'Connor,Unknown,Tablet,5,1200,0,23-11-2023,25-04-2023,100
+1052,O'Connor,North,Laptop,3,450,0,25-07-2023,21-10-2023,100
+1001,Michael   ,South,unknown,3,450,0.1,04-03-2023,26-10-2023,0
+1083,  Sarah Lee,West,MOBILE,1,800,0.1,14-03-2023,07-08-2023,-100
+1091,O'Connor,North,Tablet,2,1200,0.2,08-09-2023,04-05-2023,0
+1059,  Sarah Lee,North,Mobile,4,450,0,04-05-2023,28-02-2023,0
+1070,Jane Doe,East,Accessories,3,200,0,01-05-2023,31-01-2023,0
+1043,Michael   ,Unknown,laptop ,3,200,0,02-10-2023,02-05-2023,0
+1007,  Sarah Lee,West,Laptop,2,200,0,30-04-2023,13-08-2023,0
+1046,John Smith,Unknown,laptop ,5,200,0,13-11-2023,23-08-2023,100
+1034,John Smith,Unknown,unknown,3,800,0,13-06-2023,26-02-2023,100
+1077,Unknown,South,Mobile,-1,1200,0.1,13-10-2023,26-10-2023,0
+1080,Michael   ,West,laptop ,1,450,0.1,22-09-2023,21-11-2023,100
+1035,Michael   ,Unknown,Laptop,1,450,0.1,16-11-2023,25-08-2023,-100
+1049,Unknown,South,Mobile,-1,800,0,10-06-2023,11-06-2023,0
+1003,  Sarah Lee,Unknown,laptop ,4,800,0,04-11-2023,30-09-2023,0
+1001,Michael   ,South,Accessories,2,450,0,30-03-2023,25-01-2023,0
+1005,John Smith,Unknown,MOBILE,3,450,0.2,22-05-2023,26-02-2023,100
+1053,John Smith,East,Mobile,4,450,0.1,22-07-2023,06-10-2023,200
+1003,O'Connor,East,MOBILE,-1,450,0,05-11-2023,13-11-2023,0
+1053,Jane Doe,East,Mobile,3,450,0,15-08-2023,12-10-2023,0
+1092,Michael   ,Unknown,Accessories,-1,200,0,30-11-2023,06-08-2023,0
+1062,  Sarah Lee,East,MOBILE,4,800,0.1,10-08-2023,04-02-2023,-100
+1017,Unknown,West,Tablet,3,450,0.2,10-02-2023,07-12-2023,-50
+1089,Unknown,Unknown,Laptop,1,450,0.1,15-07-2023,06-07-2023,-50
+1043,  Sarah Lee,South,Tablet,1,450,0,09-03-2023,27-01-2023,0
+1033,David,South,laptop ,5,450,0.1,21-09-2023,05-02-2023,-100
+1073,Unknown,Unknown,Accessories,5,1200,0,02-01-2023,19-03-2023,-100
+1061,Jane Doe,East,Tablet,-1,450,0,27-12-2023,14-01-2023,-100
+1099,Unknown,East,Mobile,3,450,0.2,05-05-2023,27-02-2023,0
+1013,Michael   ,North,laptop ,3,450,0,20-04-2023,25-02-2023,-50
+1094,Jane Doe,Unknown,laptop ,3,200,0.1,27-03-2023,01-06-2023,-100
+1047,Michael   ,West,Tablet,2,1200,0,30-04-2023,13-06-2023,100
+1014,David,South,Tablet,4,450,0.1,07-05-2023,09-01-2024,0
+1071,John Smith,North,Accessories,3,450,0,12-09-2023,18-01-2023,0
+1077,Jane Doe,North,Laptop,3,450,0,02-07-2023,01-07-2023,200
+1086,O'Connor,Unknown,Tablet,5,1200,0,16-01-2023,05-01-2024,200
+1061,Unknown,South,unknown,-1,1200,0,03-03-2023,26-02-2023,0
+1039,Jane Doe,Unknown,Tablet,4,800,0.2,07-06-2023,05-12-2023,0
+1084,Jane Doe,West,MOBILE,5,450,0,25-09-2023,26-01-2023,0
+1079,Jane Doe,North,Mobile,-1,450,0,04-02-2023,03-02-2023,100
+1081,Unknown,North,unknown,4,450,0.2,24-09-2023,14-07-2023,-50
+1052,Jane Doe,Unknown,unknown,2,1200,0.1,05-03-2023,21-09-2023,-50
+1023,Michael   ,West,MOBILE,3,800,0,19-02-2023,28-07-2023,0
+1025,John Smith,North,MOBILE,4,800,0,12-09-2023,04-03-2023,100
+1088,David,West,laptop ,3,450,0,29-05-2023,25-09-2023,0
+1059,  Sarah Lee,South,Laptop,3,450,0.1,21-11-2023,16-01-2023,-50
+1040,Jane Doe,East,Mobile,1,800,0,31-10-2023,03-05-2023,0
+1028,Unknown,North,Accessories,3,450,0,03-10-2023,21-10-2023,-100
+1014,Jane Doe,Unknown,unknown,3,1200,0,23-12-2023,08-12-2023,0
+1044,Unknown,South,Accessories,3,200,0,21-06-2023,09-09-2023,0
+1064,Michael   ,West,Tablet,1,1200,0.2,20-07-2023,24-12-2023,0
+1088,Unknown,Unknown,Tablet,3,800,0.2,20-11-2023,11-05-2023,0
+1070,O'Connor,South,Accessories,4,800,0,04-02-2023,20-03-2023,100
+1008,  Sarah Lee,North,Tablet,4,1200,0,04-08-2023,31-12-2023,-50
+1087,John Smith,West,Laptop,4,450,0,06-03-2023,27-07-2023,200
+1000,Unknown,East,MOBILE,1,450,0,08-01-2023,22-02-2023,200
+1007,Unknown,South,Tablet,3,450,0.1,28-10-2023,24-03-2023,-50
+1087,John Smith,North,laptop ,-1,800,0.1,09-12-2023,02-09-2023,200
+1062,  Sarah Lee,Unknown,Tablet,1,450,0,28-11-2023,19-12-2023,0
+1010,Jane Doe,Unknown,Mobile,4,450,0,17-03-2023,07-06-2023,100
+1080,Unknown,West,Laptop,3,450,0,23-06-2023,05-10-2023,100
+1007,John Smith,South,Mobile,3,1200,0.2,16-02-2023,10-04-2023,-50
+1034,O'Connor,South,Mobile,3,450,0.1,15-01-2023,06-08-2023,200
+1034,O'Connor,East,laptop ,5,1200,0.2,27-12-2023,25-10-2023,0
+1032,Michael   ,East,Laptop,5,450,0,27-05-2023,01-08-2023,100
+1004,John Smith,Unknown,Laptop,2,800,0,26-01-2023,13-12-2023,100
+1040,Michael   ,Unknown,Laptop,-1,450,0.2,04-11-2023,02-04-2023,-100
+1027,O'Connor,Unknown,Laptop,-1,1200,0,03-04-2023,06-11-2023,-100
+1006,  Sarah Lee,North,Laptop,3,800,0,20-08-2023,25-09-2023,100
+1072,Jane Doe,North,laptop ,-1,450,0,21-01-2023,25-11-2023,-50
+1071,John Smith,Unknown,Tablet,5,1200,0.2,03-11-2023,25-11-2023,0
+1011,David,Unknown,Mobile,1,450,0.2,07-02-2023,20-11-2023,0
+1033,O'Connor,Unknown,Laptop,-1,450,0,03-10-2023,10-06-2023,0
+1032,O'Connor,Unknown,unknown,5,450,0,06-06-2023,09-06-2023,100
+1047,David,Unknown,Tablet,2,200,0,28-06-2023,23-05-2023,100
+1022,Unknown,West,Tablet,3,450,0,12-05-2023,05-05-2023,100
+1061,O'Connor,Unknown,Mobile,-1,1200,0.1,07-11-2023,10-03-2023,-50
+1087,Unknown,East,laptop ,2,450,0.1,14-12-2023,21-04-2023,-100
+1036,  Sarah Lee,Unknown,Accessories,3,200,0,28-01-2023,31-05-2023,100
+1098,John Smith,Unknown,Accessories,3,450,0,17-09-2023,21-05-2023,100
+1043,David,Unknown,Tablet,3,800,0,17-03-2023,15-06-2023,200
+1085,Unknown,North,MOBILE,3,1200,0.2,08-03-2023,14-04-2023,-50
+1090,David,East,MOBILE,-1,450,0,08-12-2023,08-12-2023,0
+1034,John Smith,East,Mobile,3,450,0,13-07-2023,07-11-2023,100
+1064,Michael   ,Unknown,Accessories,5,200,0.2,11-06-2023,25-05-2023,200
+1098,John Smith,West,Tablet,1,450,0.1,13-12-2023,28-03-2023,0
+1046,Unknown,Unknown,laptop ,1,450,0.1,27-12-2023,30-06-2023,0
+1077,John Smith,South,Accessories,4,450,0.2,14-09-2023,21-07-2023,100
+1002,John Smith,West,Tablet,3,1200,0,13-03-2023,26-04-2023,100
+1000,Unknown,West,Tablet,1,1200,0.1,28-03-2023,01-03-2023,200
+1004,  Sarah Lee,East,Laptop,-1,1200,0,19-09-2023,02-07-2023,-50
+1089,O'Connor,West,laptop ,3,450,0.2,02-08-2023,09-07-2023,100
+1013,John Smith,Unknown,Laptop,3,450,0.2,02-06-2023,10-08-2023,0
+1026,Unknown,Unknown,Mobile,3,200,0.1,29-07-2023,16-11-2023,100
+1008,Unknown,North,Laptop,-1,1200,0,02-03-2023,09-08-2023,0
+1078,Michael   ,Unknown,unknown,1,450,0,25-09-2023,04-05-2023,0
+1014,Michael   ,Unknown,Laptop,1,450,0,19-09-2023,28-06-2023,0
+1089,John Smith,East,unknown,4,800,0,06-08-2023,27-01-2023,-100
+1041,  Sarah Lee,Unknown,Accessories,1,450,0,10-10-2023,05-08-2023,-100
+1076,  Sarah Lee,North,MOBILE,3,450,0.1,16-05-2023,27-08-2023,0
+1050,Unknown,South,Tablet,-1,450,0.1,28-12-2023,17-01-2023,-50
+1062,John Smith,East,unknown,3,450,0.1,03-04-2023,15-04-2023,100
+1095,Michael   ,South,laptop ,-1,450,0,19-04-2023,28-01-2023,100
+1051,  Sarah Lee,East,Laptop,3,1200,0,29-08-2023,03-01-2024,-100
+1095,John Smith,Unknown,unknown,3,200,0,21-12-2023,15-01-2023,0
+1003,David,West,laptop ,4,450,0.1,22-05-2023,04-10-2023,100
+1093,  Sarah Lee,Unknown,MOBILE,4,200,0,18-10-2023,12-10-2023,100
+1022,Unknown,Unknown,MOBILE,1,450,0,25-08-2023,08-04-2023,-50
+1014,David,South,Laptop,2,450,0,06-12-2023,24-07-2023,200
+1042,O'Connor,Unknown,Mobile,-1,200,0.2,08-11-2023,25-01-2023,-100
+1028,  Sarah Lee,West,Laptop,-1,450,0.2,26-06-2023,10-12-2023,-100
+1035,Michael   ,East,Accessories,2,450,0.2,21-05-2023,03-08-2023,200
+1012,Jane Doe,West,unknown,4,200,0,08-07-2023,24-05-2023,100
+1031,David,North,Tablet,1,450,0.1,18-02-2023,24-10-2023,-50
+1070,O'Connor,West,Mobile,2,800,0,29-10-2023,29-10-2023,-50
+1058,Unknown,North,Laptop,1,450,0,09-07-2023,15-04-2023,-100
+1085,Unknown,West,laptop ,1,1200,0,16-05-2023,04-11-2023,-50
+1027,Michael   ,North,Mobile,1,450,0,12-02-2023,29-12-2023,0
+1065,  Sarah Lee,South,unknown,5,800,0.1,19-12-2023,01-02-2023,200
+1041,John Smith,Unknown,Mobile,3,1200,0.2,31-03-2023,14-02-2023,100
+1044,  Sarah Lee,Unknown,unknown,1,1200,0.1,22-10-2023,25-12-2023,0
+1061,Michael   ,Unknown,Laptop,5,450,0,07-12-2023,03-11-2023,200
+1056,Unknown,Unknown,unknown,4,200,0,02-09-2023,30-05-2023,0
+1005,  Sarah Lee,East,Mobile,2,450,0,11-07-2023,17-09-2023,-100
+1027,Unknown,West,laptop ,3,800,0.1,14-11-2023,19-08-2023,-50
+1027,David,Unknown,MOBILE,3,1200,0,16-04-2023,28-08-2023,0
+1043,O'Connor,East,Mobile,2,450,0,29-12-2023,31-12-2023,-50
+1083,John Smith,East,unknown,3,200,0,06-11-2023,17-01-2023,0
+1029,David,North,MOBILE,3,450,0,21-08-2023,02-08-2023,100
+1061,Unknown,Unknown,unknown,2,450,0,22-09-2023,21-08-2023,100
+1074,Unknown,South,laptop ,3,200,0,10-12-2023,14-04-2023,100
+1091,Jane Doe,South,unknown,2,800,0,06-02-2023,04-02-2023,-50
+1088,Jane Doe,Unknown,Laptop,2,1200,0,01-11-2023,20-01-2023,0
+1061,David,South,Tablet,3,450,0.2,10-02-2023,21-05-2023,100
+1096,Unknown,West,Mobile,2,200,0,17-01-2023,29-11-2023,0
+1000,David,South,Tablet,2,450,0.1,10-12-2023,19-06-2023,-50
+1026,Jane Doe,Unknown,unknown,3,200,0,04-10-2023,10-11-2023,0
+1061,Unknown,South,laptop ,4,450,0,03-11-2023,14-04-2023,0
+1076,Michael   ,West,Mobile,1,450,0.1,28-02-2023,23-04-2023,0
+1002,David,North,unknown,-1,800,0.1,02-07-2023,13-12-2023,-50
+1069,Unknown,Unknown,MOBILE,3,1200,0.2,10-02-2023,26-06-2023,-50
+1071,Michael   ,North,Accessories,5,800,0,08-02-2023,29-08-2023,-100
+1026,Michael   ,North,unknown,3,450,0,11-07-2023,15-06-2023,-50
+1008,Jane Doe,North,Tablet,3,200,0.2,24-09-2023,08-08-2023,-50
+1061,David,East,Mobile,3,450,0,27-05-2023,25-09-2023,200
+1036,  Sarah Lee,Unknown,Tablet,1,450,0.2,29-11-2023,24-09-2023,100
+1096,John Smith,East,Mobile,3,450,0,07-05-2023,23-10-2023,-100
+1050,Jane Doe,Unknown,unknown,1,200,0,15-02-2023,05-10-2023,-100
+1043,Jane Doe,North,Laptop,3,450,0.1,14-02-2023,07-01-2023,-100
+1023,  Sarah Lee,Unknown,MOBILE,3,200,0,01-01-2023,01-02-2023,200
+1078,John Smith,Unknown,unknown,-1,450,0,17-06-2023,26-11-2023,0
+1058,Unknown,West,Tablet,1,800,0.2,18-04-2023,02-06-2023,-50
+1031,Unknown,West,Accessories,2,450,0,19-01-2023,01-02-2023,100
+1095,David,South,Accessories,4,450,0,28-11-2023,10-11-2023,0
+1087,Unknown,Unknown,laptop ,-1,800,0,13-03-2023,10-03-2023,0
+1051,Unknown,Unknown,Mobile,-1,450,0,19-04-2023,26-12-2023,-50
+1061,O'Connor,East,Tablet,2,450,0.1,25-09-2023,25-01-2023,200
+1057,Jane Doe,North,laptop ,4,450,0,28-08-2023,13-09-2023,-50
+1051,John Smith,South,Tablet,3,200,0,28-10-2023,27-08-2023,-50
+1011,Jane Doe,West,Mobile,4,200,0.2,31-03-2023,19-08-2023,200
+1038,Michael   ,East,unknown,3,800,0,13-04-2023,17-01-2023,-100
+1001,Jane Doe,East,unknown,3,1200,0.2,07-09-2023,13-11-2023,-100
+1002,Jane Doe,North,Accessories,3,450,0.2,08-01-2023,22-02-2023,100
+1055,Unknown,Unknown,unknown,3,800,0,02-06-2023,02-05-2023,100
+1080,Unknown,West,unknown,3,1200,0,13-12-2023,27-02-2023,-100
+1058,Unknown,Unknown,Laptop,3,450,0,23-06-2023,22-05-2023,0
+1001,Unknown,East,Accessories,4,450,0,09-12-2023,26-02-2023,0
+1001,Michael   ,North,laptop ,-1,450,0,07-06-2023,17-02-2023,-50
+1091,O'Connor,Unknown,MOBILE,4,450,0,03-08-2023,03-11-2023,0
+1053,O'Connor,Unknown,Laptop,3,450,0,26-06-2023,26-02-2023,-50
+1086,Unknown,West,laptop ,2,1200,0.2,24-06-2023,19-03-2023,-100
+1095,John Smith,Unknown,Mobile,3,450,0,06-12-2023,19-02-2023,100
+1096,Unknown,East,Laptop,2,200,0.2,04-12-2023,17-01-2023,0
+1000,  Sarah Lee,Unknown,laptop ,3,1200,0,26-05-2023,18-06-2023,100
+1018,John Smith,Unknown,Mobile,3,800,0.1,20-11-2023,16-04-2023,0
+1001,David,Unknown,Accessories,3,200,0,10-06-2023,11-10-2023,100
+1052,David,East,MOBILE,1,200,0,07-05-2023,19-09-2023,-100
+1043,John Smith,East,Mobile,4,800,0,23-03-2023,07-12-2023,0
+1089,Unknown,Unknown,unknown,2,450,0,27-05-2023,26-12-2023,0
+1031,  Sarah Lee,South,Tablet,3,200,0.1,27-08-2023,22-05-2023,0
+1069,  Sarah Lee,Unknown,Mobile,3,1200,0.1,25-03-2023,16-06-2023,-50
+1031,Unknown,West,Mobile,2,450,0.2,23-04-2023,25-04-2023,100
+1067,  Sarah Lee,North,MOBILE,3,200,0,13-08-2023,16-04-2023,0
+1054,David,Unknown,Tablet,4,1200,0.2,28-11-2023,21-01-2023,200
+1074,Michael   ,South,unknown,3,450,0,31-08-2023,29-09-2023,100
+1055,Unknown,North,laptop ,4,1200,0,23-05-2023,05-07-2023,-50
+1016,  Sarah Lee,South,laptop ,5,450,0,10-02-2023,11-01-2024,0
+1037,Unknown,Unknown,Mobile,1,1200,0.2,15-09-2023,28-01-2023,0
+1023,David,East,Tablet,5,800,0,12-10-2023,02-02-2023,-50
+1068,Michael   ,Unknown,Tablet,3,450,0.2,15-04-2023,24-06-2023,200
+1097,Jane Doe,Unknown,unknown,2,450,0,21-07-2023,20-08-2023,0
+1069,Jane Doe,North,MOBILE,3,450,0.2,03-11-2023,20-08-2023,-100
+1085,Michael   ,North,Accessories,3,800,0.1,27-11-2023,11-07-2023,100
+1010,David,North,laptop ,3,450,0.2,23-09-2023,16-12-2023,0
+1015,Unknown,North,MOBILE,4,1200,0.1,29-07-2023,22-08-2023,-100
+1096,Michael   ,North,Laptop,5,450,0.2,20-02-2023,21-11-2023,0
+1072,Unknown,South,laptop ,-1,450,0,28-04-2023,10-12-2023,0
+1058,Unknown,Unknown,MOBILE,5,800,0,20-07-2023,03-05-2023,-50
+1069,Jane Doe,Unknown,laptop ,3,450,0,08-02-2023,09-06-2023,0
+1079,  Sarah Lee,East,Accessories,5,450,0,28-01-2023,03-10-2023,0
+1092,Unknown,East,Laptop,3,450,0,16-09-2023,28-06-2023,-100
+1002,Jane Doe,Unknown,Accessories,-1,1200,0,25-03-2023,18-04-2023,0
+1019,  Sarah Lee,Unknown,unknown,3,450,0.1,04-06-2023,06-04-2023,200
+1058,  Sarah Lee,East,Laptop,4,450,0,27-04-2023,09-07-2023,200
+1035,O'Connor,East,Mobile,2,200,0,02-01-2023,14-10-2023,100
+1018,Unknown,South,MOBILE,3,800,0.1,03-04-2023,04-07-2023,100
+1089,David,West,Laptop,2,450,0,15-06-2023,23-06-2023,200
+1066,John Smith,Unknown,unknown,3,450,0.1,16-12-2023,10-07-2023,0
+1018,David,North,unknown,3,1200,0.2,23-10-2023,28-06-2023,0
+1019,John Smith,West,Accessories,5,450,0,15-09-2023,14-08-2023,200
+1095,Michael   ,Unknown,laptop ,-1,1200,0,22-03-2023,25-08-2023,100
+1070,Unknown,East,Laptop,-1,450,0,25-09-2023,15-06-2023,200
+1051,  Sarah Lee,West,MOBILE,1,1200,0,23-08-2023,18-05-2023,0
+1032,Unknown,Unknown,Laptop,3,450,0,17-11-2023,16-08-2023,200
+1039,John Smith,Unknown,Tablet,3,450,0,07-11-2023,06-06-2023,0
+1038,David,North,laptop ,4,450,0,28-10-2023,06-02-2023,-100
+1081,  Sarah Lee,North,MOBILE,2,200,0,23-12-2023,28-02-2023,0
+1000,John Smith,Unknown,MOBILE,3,450,0,01-08-2023,11-01-2023,100
+1010,John Smith,Unknown,Mobile,3,450,0,03-03-2023,05-09-2023,0
+1091,O'Connor,East,Accessories,5,450,0,18-02-2023,13-11-2023,200
+1056,John Smith,North,Mobile,5,200,0,07-05-2023,10-05-2023,200
+1088,Unknown,Unknown,MOBILE,3,1200,0,11-08-2023,16-01-2023,-100
+1049,Unknown,West,laptop ,3,200,0.1,06-10-2023,20-01-2023,100
+1022,Unknown,Unknown,Laptop,3,1200,0,21-10-2023,31-07-2023,100
+1030,Jane Doe,South,Laptop,1,1200,0.2,11-10-2023,16-02-2023,-50
+1093,  Sarah Lee,South,laptop ,3,800,0,04-10-2023,12-01-2024,100
+1041,Unknown,Unknown,MOBILE,4,450,0.1,17-04-2023,19-05-2023,-100
+1098,O'Connor,East,unknown,1,450,0.1,26-05-2023,20-08-2023,-50
+1006,Unknown,South,Laptop,3,1200,0,09-04-2023,25-04-2023,-50
+1015,Unknown,North,unknown,5,800,0,14-03-2023,07-11-2023,200
+1089,David,Unknown,Laptop,3,450,0,02-05-2023,13-06-2023,200
+1059,Unknown,Unknown,Laptop,2,450,0,30-01-2023,01-12-2023,100
+1001,O'Connor,Unknown,Accessories,5,1200,0,07-07-2023,25-09-2023,-50
+1000,Unknown,West,Accessories,-1,1200,0,30-12-2023,17-08-2023,200
+1047,Unknown,Unknown,Tablet,4,200,0.2,20-12-2023,09-08-2023,-100
+1011,Michael   ,West,Mobile,5,200,0,15-10-2023,18-02-2023,200
+1068,  Sarah Lee,Unknown,laptop ,4,450,0.1,14-07-2023,06-08-2023,0
+1036,Unknown,Unknown,laptop ,4,450,0.1,05-06-2023,04-03-2023,0
+1031,  Sarah Lee,Unknown,laptop ,4,1200,0.2,21-06-2023,16-05-2023,200
+1008,Michael   ,West,Tablet,3,450,0,01-12-2023,18-04-2023,-50
+1098,Michael   ,West,Accessories,4,450,0,10-02-2023,18-07-2023,-50
+1018,  Sarah Lee,Unknown,MOBILE,4,450,0,04-03-2023,10-06-2023,0
+1047,John Smith,South,unknown,-1,200,0.1,23-01-2023,12-04-2023,0
+1079,Jane Doe,East,unknown,2,450,0,26-12-2023,18-08-2023,-100
+1002,David,East,MOBILE,1,1200,0.2,16-03-2023,28-07-2023,-50
+1019,John Smith,East,Tablet,3,450,0.1,17-02-2023,24-03-2023,100
+1023,John Smith,West,MOBILE,-1,1200,0.2,09-06-2023,08-05-2023,0
+1053,Unknown,West,laptop ,1,450,0,09-11-2023,10-08-2023,-100
+1032,David,South,Mobile,4,450,0,28-04-2023,08-01-2023,-100
+1023,David,East,Laptop,2,450,0.1,10-04-2023,04-04-2023,-50
+1074,John Smith,East,unknown,5,1200,0.1,16-06-2023,18-04-2023,-100
+1071,Unknown,Unknown,Accessories,2,200,0,17-10-2023,03-05-2023,-50
+1035,Unknown,West,Accessories,-1,450,0,05-06-2023,17-05-2023,200
+1037,Unknown,East,Tablet,4,450,0,07-01-2023,12-11-2023,0
+1083,Michael   ,Unknown,Accessories,2,450,0.1,15-07-2023,10-04-2023,0
+1098,O'Connor,South,laptop ,3,200,0,25-02-2023,01-12-2023,200
+1088,David,Unknown,unknown,2,450,0.1,17-11-2023,27-05-2023,0
+1098,John Smith,Unknown,MOBILE,4,450,0,12-07-2023,19-10-2023,-50
+1024,Michael   ,South,laptop ,3,800,0.2,16-02-2023,01-02-2023,0
+1092,  Sarah Lee,Unknown,Tablet,3,200,0.1,28-05-2023,09-10-2023,-50
+1017,Jane Doe,East,laptop ,2,200,0,02-10-2023,25-08-2023,200
+1081,O'Connor,West,MOBILE,3,200,0,06-06-2023,21-01-2023,100
+1065,O'Connor,South,Mobile,3,800,0.2,21-07-2023,04-03-2023,100
+1053,O'Connor,Unknown,Tablet,2,800,0.2,06-05-2023,04-04-2023,0
+1034,Unknown,Unknown,Mobile,3,1200,0,01-11-2023,22-07-2023,100
+1079,  Sarah Lee,South,Laptop,5,450,0,21-10-2023,01-01-2024,-50
+1060,O'Connor,North,Mobile,4,450,0,05-03-2023,30-01-2023,-100
+1040,  Sarah Lee,North,Laptop,3,1200,0,21-11-2023,29-01-2023,-50
+1099,Unknown,West,Laptop,5,450,0,25-06-2023,01-11-2023,-100
+1032,O'Connor,East,Mobile,2,450,0,26-04-2023,09-12-2023,200
+1067,Jane Doe,West,Tablet,-1,800,0,23-07-2023,28-09-2023,0
+1032,  Sarah Lee,West,MOBILE,5,450,0.1,17-11-2023,04-07-2023,-100
+1013,  Sarah Lee,West,laptop ,3,800,0,31-01-2023,30-12-2023,100
+1020,Jane Doe,West,laptop ,1,450,0,23-04-2023,13-03-2023,-50
+1047,O'Connor,Unknown,MOBILE,3,1200,0.1,31-12-2023,21-12-2023,200
+1019,Jane Doe,Unknown,unknown,2,450,0,21-11-2023,21-11-2023,100
+1007,  Sarah Lee,South,unknown,-1,1200,0,10-12-2023,22-02-2023,200
+1006,Jane Doe,North,Laptop,4,450,0,08-03-2023,28-06-2023,0
+1066,  Sarah Lee,West,Laptop,-1,1200,0,16-03-2023,25-02-2023,-50
+1016,  Sarah Lee,South,Tablet,3,200,0,14-02-2023,16-04-2023,0
+1032,Unknown,North,Accessories,3,450,0.1,17-09-2023,08-08-2023,-50
+1047,John Smith,Unknown,Mobile,2,450,0,03-06-2023,11-07-2023,0
+1075,  Sarah Lee,East,Laptop,4,450,0.1,04-06-2023,02-03-2023,-50
+1058,O'Connor,Unknown,laptop ,3,450,0.2,29-12-2023,20-02-2023,0
+1085,Michael   ,Unknown,Tablet,3,800,0,22-08-2023,12-06-2023,-100
+1021,Unknown,North,Mobile,2,450,0,20-02-2023,27-06-2023,200
+1029,David,Unknown,Tablet,3,450,0,02-11-2023,03-09-2023,0
+1037,John Smith,East,Mobile,5,450,0.1,19-09-2023,13-10-2023,100
+1050,John Smith,North,Mobile,5,450,0.1,11-11-2023,02-09-2023,0
+1053,John Smith,Unknown,MOBILE,3,450,0,05-05-2023,09-01-2024,-100
+1007,Unknown,Unknown,Laptop,5,800,0.1,02-09-2023,09-01-2023,100
+1026,  Sarah Lee,Unknown,Tablet,1,1200,0,30-01-2023,29-03-2023,100
+1026,Unknown,South,Tablet,3,450,0,02-05-2023,08-11-2023,0
+1097,  Sarah Lee,Unknown,MOBILE,3,200,0.1,05-05-2023,31-12-2023,-100
+1020,O'Connor,West,laptop ,4,450,0,06-02-2023,09-09-2023,100
+1029,Unknown,Unknown,laptop ,5,800,0.1,19-06-2023,27-02-2023,100
+1096,Unknown,North,unknown,3,450,0.1,04-05-2023,14-06-2023,-100
+1027,Unknown,North,Laptop,3,800,0.1,23-12-2023,18-08-2023,-50
+1063,Michael   ,Unknown,Laptop,-1,450,0.2,04-02-2023,19-01-2023,100
+1096,Unknown,East,Accessories,3,800,0,28-03-2023,16-08-2023,200
+1068,Unknown,Unknown,MOBILE,1,450,0,14-05-2023,06-03-2023,-100
+1060,Jane Doe,North,laptop ,4,450,0,15-07-2023,06-05-2023,100
+1047,Michael   ,Unknown,Mobile,2,1200,0.2,01-10-2023,08-10-2023,0
+1018,O'Connor,North,Tablet,3,450,0.1,20-07-2023,19-02-2023,0
+1003,Unknown,South,Laptop,3,450,0.2,12-10-2023,25-10-2023,200
+1034,David,West,Tablet,1,200,0.2,18-03-2023,07-03-2023,0
+1063,John Smith,North,Tablet,3,450,0,28-02-2023,31-03-2023,0
+1048,Jane Doe,Unknown,Accessories,1,200,0,06-05-2023,02-08-2023,100
+1016,Jane Doe,South,laptop ,1,450,0,19-04-2023,23-03-2023,200
+1043,O'Connor,North,Laptop,4,450,0.1,12-08-2023,25-07-2023,200
+1091,Unknown,East,Tablet,2,200,0,05-10-2023,02-11-2023,-50
+1029,Jane Doe,West,Laptop,3,1200,0,09-03-2023,15-08-2023,0
+1092,Michael   ,North,Mobile,5,450,0,10-03-2023,14-08-2023,200
+1045,Unknown,South,Accessories,5,200,0,14-06-2023,07-01-2023,-50
+1005,Unknown,East,Mobile,3,450,0,01-11-2023,10-01-2023,-100
+1098,David,Unknown,Laptop,1,450,0.2,11-06-2023,07-04-2023,-50
+1036,O'Connor,South,unknown,-1,450,0,31-12-2023,12-01-2023,0
+1023,John Smith,South,Laptop,4,450,0,08-12-2023,27-08-2023,100
+1092,Unknown,East,laptop ,-1,1200,0.1,05-11-2023,22-04-2023,-100
+1045,John Smith,South,Tablet,4,800,0,09-12-2023,14-06-2023,-100
+1052,Jane Doe,East,Tablet,5,800,0.1,11-02-2023,01-08-2023,0
+1094,O'Connor,North,Mobile,3,200,0,20-12-2023,01-09-2023,-50
+1098,David,East,Accessories,3,450,0.1,19-04-2023,01-12-2023,100
+1059,John Smith,East,unknown,3,200,0,20-02-2023,03-12-2023,-50
+1096,Michael   ,West,MOBILE,3,450,0.2,07-09-2023,23-02-2023,200
+1062,Unknown,East,Tablet,2,450,0,07-12-2023,15-01-2023,-50
+1084,Jane Doe,East,laptop ,3,450,0,21-01-2023,21-12-2023,-100
+1031,David,Unknown,Mobile,3,450,0.1,27-10-2023,09-06-2023,100
+1086,John Smith,North,Mobile,3,450,0,19-05-2023,15-03-2023,-50
+1032,Unknown,West,MOBILE,-1,1200,0.2,25-12-2023,22-06-2023,100
+1066,Michael   ,Unknown,laptop ,2,200,0,20-11-2023,03-10-2023,100
+1017,Michael   ,Unknown,Accessories,5,1200,0,02-04-2023,13-03-2023,200
+1024,John Smith,North,laptop ,2,450,0.2,07-10-2023,25-12-2023,200
+1094,Unknown,North,Accessories,4,1200,0.1,05-05-2023,13-09-2023,-100
+1053,John Smith,Unknown,laptop ,3,1200,0.2,21-04-2023,21-02-2023,0
+1057,Jane Doe,East,laptop ,1,1200,0.2,20-12-2023,07-07-2023,100
+1066,John Smith,Unknown,Laptop,1,450,0,19-05-2023,20-11-2023,0
+1045,Michael   ,South,Mobile,5,450,0.2,30-09-2023,10-07-2023,-100
+1023,David,West,laptop ,4,1200,0.2,09-04-2023,04-04-2023,100
+1031,John Smith,South,MOBILE,-1,450,0,09-09-2023,02-12-2023,100
+1046,Unknown,Unknown,laptop ,3,450,0.1,04-12-2023,23-05-2023,0
+1085,O'Connor,North,Tablet,4,1200,0,14-04-2023,27-12-2023,0
+1022,David,North,Mobile,1,450,0,02-08-2023,03-04-2023,-50
+1065,Unknown,West,Tablet,1,450,0,06-09-2023,05-10-2023,200
+1026,  Sarah Lee,North,Mobile,-1,800,0,01-06-2023,23-01-2023,-50
+1001,John Smith,North,Tablet,3,450,0,07-09-2023,11-11-2023,0
+1089,Unknown,West,laptop ,4,450,0,02-10-2023,28-12-2023,200
+1016,David,Unknown,laptop ,4,1200,0,14-06-2023,13-01-2024,-50
+1032,Unknown,Unknown,Laptop,1,800,0.1,07-12-2023,07-06-2023,0
+1008,Unknown,West,MOBILE,3,800,0.1,08-01-2023,21-09-2023,200
+1042,Michael   ,Unknown,Tablet,5,450,0,11-10-2023,22-04-2023,100
+1047,Unknown,North,Accessories,3,800,0,05-01-2023,10-01-2024,-50
+1038,David,North,Laptop,5,450,0,25-05-2023,16-10-2023,200
+1092,Unknown,Unknown,Tablet,4,450,0.1,11-04-2023,04-03-2023,0
+1041,Unknown,Unknown,Tablet,5,200,0.2,13-06-2023,09-05-2023,200
+1025,Unknown,East,Laptop,1,450,0,27-05-2023,24-12-2023,200
+1098,Jane Doe,East,laptop ,1,450,0.2,05-03-2023,04-10-2023,0
+1049,Jane Doe,East,Tablet,-1,800,0.2,01-04-2023,21-04-2023,-50
+1024,Michael   ,Unknown,laptop ,4,450,0.1,27-04-2023,30-10-2023,-100
+1023,John Smith,Unknown,Laptop,-1,450,0.2,20-12-2023,06-09-2023,-50
+1012,Unknown,Unknown,laptop ,4,200,0,24-09-2023,06-12-2023,0
+1059,Unknown,North,Mobile,3,800,0,06-11-2023,08-09-2023,0
+1006,John Smith,Unknown,Accessories,3,200,0,22-06-2023,12-01-2023,-50
+1056,Unknown,Unknown,unknown,3,800,0,16-02-2023,25-05-2023,200
+1035,John Smith,Unknown,Tablet,4,450,0,20-05-2023,01-01-2024,0
+1044,Michael   ,East,MOBILE,3,200,0.2,03-09-2023,12-01-2023,100
+1019,Unknown,South,Accessories,5,1200,0,29-05-2023,22-12-2023,-50
+1064,Unknown,North,unknown,4,450,0,03-09-2023,08-04-2023,0
+1007,  Sarah Lee,Unknown,laptop ,2,450,0.2,05-01-2023,21-11-2023,-50
+1015,Unknown,East,Tablet,3,800,0,03-07-2023,12-02-2023,0
+1013,John Smith,South,laptop ,2,1200,0,20-01-2023,26-03-2023,200
+1075,John Smith,South,Mobile,1,200,0.2,15-02-2023,10-07-2023,100
+1086,O'Connor,Unknown,Laptop,3,1200,0,12-01-2023,29-03-2023,100
+1014,O'Connor,West,Tablet,5,1200,0,11-03-2023,02-04-2023,0
+1091,Jane Doe,North,unknown,4,200,0,17-01-2023,03-09-2023,0
+1097,  Sarah Lee,South,unknown,2,450,0,27-05-2023,12-12-2023,-50
+1065,David,Unknown,Mobile,5,1200,0,03-06-2023,07-04-2023,100
+1031,O'Connor,Unknown,Mobile,1,1200,0.1,31-10-2023,31-03-2023,100
+1086,David,East,Tablet,3,450,0,18-04-2023,17-02-2023,-100
+1062,Jane Doe,West,laptop ,3,1200,0,24-08-2023,21-05-2023,-100
+1085,Jane Doe,North,MOBILE,3,1200,0.1,04-11-2023,19-03-2023,100
+1050,Jane Doe,Unknown,unknown,5,1200,0.2,18-12-2023,09-02-2023,0
+1024,Unknown,East,unknown,5,450,0.2,11-03-2023,15-04-2023,0
+1057,Unknown,South,Mobile,3,450,0,02-07-2023,09-06-2023,100
+1062,Michael   ,South,Accessories,5,450,0,07-09-2023,16-09-2023,200
+1061,Michael   ,East,Mobile,1,1200,0.2,16-08-2023,24-06-2023,-50
+1021,Jane Doe,Unknown,MOBILE,1,450,0,12-04-2023,08-08-2023,0
+1057,  Sarah Lee,South,laptop ,3,450,0,16-03-2023,23-06-2023,200
+1057,John Smith,West,laptop ,3,800,0,04-08-2023,13-09-2023,0
+1085,Unknown,North,Accessories,4,800,0,22-07-2023,30-12-2023,200
+1048,  Sarah Lee,West,unknown,2,1200,0.1,11-07-2023,22-11-2023,-50
+1051,Unknown,South,Mobile,4,450,0.1,06-09-2023,28-02-2023,-50
+1041,Unknown,Unknown,laptop ,5,450,0,30-08-2023,05-04-2023,-100
+1069,Unknown,North,MOBILE,2,450,0.2,28-06-2023,09-10-2023,0
+1014,Michael   ,North,Tablet,-1,450,0,07-08-2023,15-04-2023,200
+1053,John Smith,East,Laptop,3,450,0,23-03-2023,08-06-2023,-100
+1059,John Smith,East,Laptop,3,450,0,02-04-2023,08-06-2023,200
+1096,O'Connor,Unknown,Laptop,3,450,0,24-06-2023,19-12-2023,-100
+1007,David,Unknown,unknown,2,450,0,27-08-2023,03-01-2024,-50
+1052,David,North,Mobile,1,450,0.1,17-09-2023,25-05-2023,0
+1059,David,Unknown,Accessories,2,800,0.2,31-12-2023,26-06-2023,-100
+1004,David,East,laptop ,5,450,0,12-06-2023,14-01-2023,200
+1067,Unknown,East,Tablet,1,450,0,17-02-2023,20-08-2023,200
+1005,Unknown,North,MOBILE,3,450,0,25-11-2023,26-09-2023,0
+1095,Unknown,West,Tablet,3,450,0.2,24-11-2023,09-09-2023,-50
+1093,Jane Doe,South,MOBILE,-1,450,0.1,26-04-2023,08-09-2023,200
+1046,Michael   ,East,unknown,3,450,0,03-12-2023,08-06-2023,100
+1098,Michael   ,Unknown,Mobile,3,450,0,03-12-2023,07-02-2023,0
+1054,David,Unknown,Laptop,2,200,0,13-08-2023,13-05-2023,-100
+1039,Unknown,East,Mobile,3,450,0,18-12-2023,13-06-2023,0
+1051,O'Connor,West,unknown,4,450,0.1,24-11-2023,03-04-2023,0
+1015,  Sarah Lee,West,Accessories,3,450,0.2,27-05-2023,07-04-2023,-50
+1012,Jane Doe,Unknown,Accessories,4,450,0,04-03-2023,27-11-2023,0
+1029,Unknown,Unknown,unknown,3,450,0,21-10-2023,02-09-2023,-100
+1018,Jane Doe,Unknown,MOBILE,-1,450,0.1,19-11-2023,23-11-2023,-100
+1016,Jane Doe,Unknown,laptop ,3,450,0,21-11-2023,01-05-2023,100
+1062,Jane Doe,South,laptop ,5,450,0,13-01-2023,08-04-2023,-50
+1018,Unknown,South,MOBILE,4,450,0.1,08-07-2023,16-06-2023,0
+1091,David,North,Accessories,-1,450,0,14-10-2023,13-04-2023,0
+1057,Michael   ,Unknown,Accessories,2,1200,0,27-07-2023,27-04-2023,200
+1054,Michael   ,East,Accessories,2,200,0.2,24-04-2023,29-12-2023,100
+1089,David,Unknown,Mobile,4,800,0,22-01-2023,05-04-2023,100
+1089,Jane Doe,East,Accessories,3,200,0.1,15-12-2023,16-12-2023,0
+1061,  Sarah Lee,West,Tablet,-1,1200,0,02-08-2023,29-07-2023,0
+1022,John Smith,Unknown,Laptop,2,800,0.2,20-06-2023,21-01-2023,0
+1008,Unknown,West,Accessories,5,450,0.1,19-11-2023,05-10-2023,0
+1011,John Smith,South,MOBILE,1,1200,0.1,23-02-2023,26-06-2023,0
+1000,O'Connor,South,Laptop,3,450,0.2,25-10-2023,30-04-2023,100
+1057,David,North,Mobile,-1,450,0,16-11-2023,19-12-2023,200
+1000,  Sarah Lee,Unknown,MOBILE,5,450,0,06-05-2023,04-07-2023,-100
+1033,Unknown,West,Laptop,-1,1200,0,04-10-2023,05-04-2023,0
+1095,David,East,MOBILE,3,450,0,23-07-2023,27-03-2023,200
+1047,Jane Doe,South,Mobile,5,1200,0.2,13-07-2023,24-11-2023,-50
+1088,Michael   ,South,Tablet,3,1200,0.2,18-06-2023,28-04-2023,0
+1000,John Smith,East,Mobile,3,450,0.2,01-06-2023,18-09-2023,-100
+1015,Unknown,West,Mobile,3,800,0,04-02-2023,03-03-2023,-50
+1060,Unknown,West,MOBILE,2,200,0,03-07-2023,07-06-2023,-50
+1063,  Sarah Lee,Unknown,unknown,1,450,0,13-10-2023,04-01-2024,-100
+1062,Jane Doe,Unknown,laptop ,3,1200,0.1,26-02-2023,30-04-2023,0
+1068,O'Connor,Unknown,Accessories,3,450,0.1,10-08-2023,13-12-2023,100
+1021,John Smith,Unknown,Accessories,2,450,0.2,30-10-2023,27-09-2023,-100
+1092,Jane Doe,North,Tablet,3,450,0,12-06-2023,15-11-2023,-100
+1066,John Smith,South,Tablet,2,450,0,19-01-2023,26-07-2023,-100
